@@ -1,5 +1,5 @@
 # MyCharts
-MyCharts is a chart creation SaaS application, designed with a microservices architecture. It was created as part of the Software as a Service Technologies class of the [School of Electrical and Computer Engineering](https://www.ece.ntua.gr/en) of the [National Technical University of Athens](https://ntua.gr/en/) during the academic year 2022-2023.
+MyCharts is a chart creation SaaS application, designed with a microservices architecture. It was created as part of the Software-as-a-Service Technologies class of the [School of Electrical and Computer Engineering](https://www.ece.ntua.gr/en) of the [National Technical University of Athens](https://ntua.gr/en/) during the academic year 2022-2023.
 
 #### Contributors
 * `dimjimitris` - Dimitris Georgousis
