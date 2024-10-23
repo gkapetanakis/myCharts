@@ -1,9 +1,18 @@
-# NTUA ECE SaaS 2023 Project (Team 8)
+# MyCharts
+MyCharts is a chart creation SaaS application, designed with a microservices architecture. It was created as part of the Software as a Service Technologies class of the [School of Electrical and Computer Engineering](https://www.ece.ntua.gr/en) of the [National Technical University of Athens](https://ntua.gr/en/) during the academic year 2022-2023.
 
-A SaaS app that runs in Docker Containers with an architecture based on microservices, that allows users to create and store charts.
+#### Contributors
+* `dimjimitris` - Dimitris Georgousis
+* `gkapetanakis` - George Kapetanakis (me)
+* `ntua-el19008` - Ioannis Protogeros
+
+#### Grade
+The project was graded with a 10 out of 10.
+
+#### Project Description
+The project description in Greek, along with all other provided files, can be found in the `handouts` folder.
 
 ## How To Run:
-
 * Clone repo to an empty folder. `cd` to that folder.
 * `cd docker_compose`
 * `docker build -t puppeteer .`
@@ -29,12 +38,3 @@ That's it.
 Tools used: `Node.js`, `Next.js`, `Docker`, `Apache Kafka`, `MongoDB (Atlas)`, `Highcharts`.
 
 Special thanks to the creator(s) of the `wurstmeister/zookeeper` and `wurstmeister/kafka` docker images.
-
-## Team Members:
-
-* Evaggelos Froudakis, el19108
-* Dimitrios Georgousis, el19005
-* Georgios-Alexios Kapetanakis, el19062
-* Ioannis Protogeros, el19008
-* Kostantinos Siskos, el19887
-* Nikolaos Sfakianakis, el19130
